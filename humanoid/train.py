@@ -45,16 +45,11 @@ class LabelsLoss(nn.Module):
         if z_pos.size(0) == 0 or z_neg.size(0) == 0:
             return torch.tensor(0.0, device=z_pos.device, requires_grad=True)
 
-        # --- Inter-class loss (pushing apart) ---
-        # We want the distance between positive and negative samples to be large.
-        # The loss is high when the distance is smaller than the margin.
+        # Inter-class loss
         inter_class_dist = torch.cdist(z_pos, z_neg, p=2)
         inter_class_loss = torch.relu(self.margin - inter_class_dist).pow(2)
 
-        # --- Intra-class loss (pulling together) ---
-        # We want the distance between samples of the same class to be small.
-        # The loss is simply the distance itself.
-        # We calculate it for both positive and negative samples.
+        # Intra-class loss
         intra_class_loss_pos = torch.pdist(z_pos, p=2).pow(2)
         intra_class_loss_neg = torch.pdist(z_neg, p=2).pow(2)
 
