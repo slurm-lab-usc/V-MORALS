@@ -21,6 +21,10 @@ python train.py
 <pre>python get_MG_ROA_{model_latent_dim}.py
 </pre>
 
+6. If you dataset is sparse or has few trajectories you can directly sample from the latent space by running:
+<pre>python get_MG_ROA_random.py
+</pre>
+
 ## Custom Dataset:
 1. Copy the files from any of the system folders.
 2. Change the models.py to adapt to your image size and the number of images you want to stack.
