@@ -1,10 +1,16 @@
 # V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Latent Space
 
-<div align="center">
-[Faiz Aladin](https://www.linkedin.com/in/faiz-aladin/), [Ashwin Balasubramanian](https://www.linkedin.com/in/balasubramanian-ashwin/), [Lars Lindemann](https://sites.google.com/view/larslindemann/main-page), [Daniel Seita](https://danielseita.github.io/)
+
+<p align="center">
+  [Faiz Aladin](https://www.linkedin.com/in/faiz-aladin/), 
+  [Ashwin Balasubramanian](https://www.linkedin.com/in/balasubramanian-ashwin/), 
+  [Lars Lindemann](https://sites.google.com/view/larslindemann/main-page), 
+  [Daniel Seita](https://danielseita.github.io/)
+</p>
 
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 
+<div align="center">
 [Website](https://v-morals.onrender.com)
 </div>
 
