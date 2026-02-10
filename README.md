@@ -11,7 +11,10 @@
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 </div>
 
-[Website](https://v-morals.onrender.com)
+<h4 align="center">
+  <a href="https://v-morals.onrender.com"><b>Website</b></a> &nbsp;•&nbsp;
+  <a>Paper</a>
+</h4>
 
 ![V-MORALS Overview](Figure.png)
 
