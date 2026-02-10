@@ -1,5 +1,7 @@
 # V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Latent Space
 
+Faiz Aladin, Ashwin Balasubramanian, Lars Lindemann, Daniel Seita
+
 ![V-MORALS Overview](Figure.png)
 
 ## About:
