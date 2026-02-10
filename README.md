@@ -2,7 +2,7 @@
 
 Faiz Aladin, Ashwin Balasubramanian, Lars Lindemann, Daniel Seita
 
-2024 IEEE International Conference on Robotics and Automation (ICRA), 2024
+2026 IEEE International Conference on Robotics and Automation (ICRA), 2026
 
 ![V-MORALS Overview](Figure.png)
 
