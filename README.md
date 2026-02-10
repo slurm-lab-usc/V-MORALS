@@ -1,4 +1,4 @@
-# V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Space
+# V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Latent Space
 
 ![V-MORALS Overview](Figure.png)
 
