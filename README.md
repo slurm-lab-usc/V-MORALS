@@ -4,11 +4,12 @@
   <a href="https://www.linkedin.com/in/faiz-aladin/">Faiz Aladin</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/balasubramanian-ashwin/">Ashwin Balasubramanian</a> &nbsp;•&nbsp;
   <a href="https://sites.google.com/view/larslindemann/main-page">Lars Lindemann</a> &nbsp;•&nbsp;
-  <a href="https://danielseita.github.io/">Daniel Seita</a> &nbsp;•&nbsp;
+  <a href="https://danielseita.github.io/">Daniel Seita</a>
 </div>
 
-
+<div align="center">
 2026 IEEE International Conference on Robotics and Automation (ICRA)
+</div>
 
 [Website](https://v-morals.onrender.com)
 
