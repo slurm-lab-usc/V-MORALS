@@ -1,6 +1,6 @@
 <h1 align="center">
 V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Latent Space
-
+</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/faiz-aladin/">Faiz Aladin</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/balasubramanian-ashwin/">Ashwin Balasubramanian</a> &nbsp;•&nbsp;
