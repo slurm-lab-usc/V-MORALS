@@ -40,12 +40,14 @@ python train.py
 ```
 
 5. To generate the Morse Graph and Regions of Attraction Map run:
-<pre>python get_MG_ROA_{model_latent_dim}.py
-</pre>
+```
+python get_MG_ROA_{model_latent_dim}.py
+```
 
 6. If you dataset is sparse or has few trajectories you can directly sample from the latent space by running:
-<pre>python get_MG_ROA_random.py
-</pre>
+```
+python get_MG_ROA_random.py
+```
 
 ## Custom Dataset:
 1. Copy the files from any of the system folders.
@@ -55,12 +57,12 @@ python train.py
 
 
 ## Citation:
-<pre>
+```
 @inproceedings{aladin2026vmorals,
   title={{V-MORALS: Visual Morse Graph-Aided Discovery of Regions of Attraction in a Learned Space}},
   author={Faiz Aladin and Ashwin Balasubramanian and Lars Lindemann and Daniel Seita},
   booktitle={International Conference on Robotics and Automation (ICRA)},
   Year={2026}
 }
-</pre>
+```
 
