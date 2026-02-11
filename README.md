@@ -51,7 +51,7 @@ python train.py
 
 ## Citation:
 <pre>
-  @inproceedings{aladin2026vmorals,
+@inproceedings{aladin2026vmorals,
   title={{V-MORALS: Visual Morse Graph-Aided Discovery of Regions of Attraction in a Learned Space}},
   author={Faiz Aladin and Ashwin Balasubramanian and Lars Lindemann and Daniel Seita},
   booktitle={International Conference on Robotics and Automation (ICRA)},
