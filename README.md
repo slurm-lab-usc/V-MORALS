@@ -52,7 +52,7 @@ python get_MG_ROA_random.py
 ## Custom Dataset:
 1. Copy the files from any of the system folders.
 2. Change the models.py to adapt to your image size and the number of images you want to stack.
-3. Change the {system}_dataloader.py file to use your own datset and success.txt file
+3. Change the {system}_dataloader.py file to use your own dataset and success.txt file
 4. Repeat the steps in "How to Use".
 
 
