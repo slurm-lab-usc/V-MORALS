@@ -30,9 +30,11 @@ V-MORALS takes in a dataset of image-based trajectories of a system under a give
 3. Move the image dataset to the folder of the system you want to use. 
 
 4. To generate models for a given system, move to that folder and run (you can also skip this step and use the existing models):
-<pre>cd humanoid 
+
+```
+cd humanoid 
 python train.py 
-</pre>
+```
 
 5. To generate the Morse Graph and Regions of Attraction Map run:
 <pre>python get_MG_ROA_{model_latent_dim}.py
