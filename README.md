@@ -2,7 +2,7 @@
 V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Learned Latent Space
 </h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/faiz-aladin/">Faiz Aladin</a> &nbsp;•&nbsp;
+  <a href="https://faizaladin.github.io">Faiz Aladin</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/balasubramanian-ashwin/">Ashwin Balasubramanian</a> &nbsp;•&nbsp;
   <a href="https://sites.google.com/view/larslindemann/main-page">Lars Lindemann</a> &nbsp;•&nbsp;
   <a href="https://danielseita.github.io/">Daniel Seita</a>
@@ -14,7 +14,7 @@ V-MORALS: Visual Morse Graph-Aided Estimation of Regions of Attraction in a Lear
 
 <h4 align="center">
   <a href="https://v-morals.onrender.com"><b>Website</b></a> &nbsp;•&nbsp;
-  <a>Paper</a>
+  <a href="https://arxiv.org/abs/2602.23524"><b>Paper</b></a>
 </h4>
 
 ![V-MORALS Overview](Figure.png)
